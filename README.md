@@ -1,0 +1,3 @@
+# HSP - RF Repeater
+
+RADIO_RECEIVER_PIN = 18
